@@ -15,7 +15,7 @@ This project is a technical assessment demonstrating proficiency in .NET 8, ASP.
 ## Installation
 1. Clone the repository.
    ```sh
-   git clone https://github.com/yourusername/projectname.git
+   git clone https://github.com/fernando-cacavaio/FernandoApexa.git
 2. Open the solution file FernandoApexa.sln in Visual Studio or your preferred IDE.
 3. Build the solution to restore dependencies.
 4. Run the project using your IDE's running capabilities.
